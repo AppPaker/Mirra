@@ -1,0 +1,79 @@
+com.themirrorsocial.mirra.app-jetified-play-services-maps-18.2.0-0 C:\Users\MrHassyy\.gradle\caches\transforms-3\01dbff8927e8b2aa767c55cc1914bf9e\transformed\jetified-play-services-maps-18.2.0\res
+com.themirrorsocial.mirra.app-jetified-android-maps-utils-3.6.0-1 C:\Users\MrHassyy\.gradle\caches\transforms-3\0402178c0a70d517a273fdbfef37b476\transformed\jetified-android-maps-utils-3.6.0\res
+com.themirrorsocial.mirra.app-jetified-savedstate-1.2.1-2 C:\Users\MrHassyy\.gradle\caches\transforms-3\06f1f6593869a63768ed146cfbaa0e2a\transformed\jetified-savedstate-1.2.1\res
+com.themirrorsocial.mirra.app-jetified-window-1.0.0-beta04-3 C:\Users\MrHassyy\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.themirrorsocial.mirra.app-jetified-firebase-messaging-23.4.1-4 C:\Users\MrHassyy\.gradle\caches\transforms-3\0aa004a9a3ab30202d68d41081c1d36e\transformed\jetified-firebase-messaging-23.4.1\res
+com.themirrorsocial.mirra.app-jetified-purchases-7.10.1-5 C:\Users\MrHassyy\.gradle\caches\transforms-3\1331fcb0d63e0ef8f202d6d31ec38f5a\transformed\jetified-purchases-7.10.1\res
+com.themirrorsocial.mirra.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-6 C:\Users\MrHassyy\.gradle\caches\transforms-3\1a989807abd7973777c3a83181cc7a10\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.themirrorsocial.mirra.app-localbroadcastmanager-1.1.0-7 C:\Users\MrHassyy\.gradle\caches\transforms-3\20966fede9ca671cb70d4d4bc182632b\transformed\localbroadcastmanager-1.1.0\res
+com.themirrorsocial.mirra.app-jetified-firebase-common-20.4.2-8 C:\Users\MrHassyy\.gradle\caches\transforms-3\29429379be0edfde063e43fae29f4d1b\transformed\jetified-firebase-common-20.4.2\res
+com.themirrorsocial.mirra.app-jetified-play-services-basement-18.3.0-9 C:\Users\MrHassyy\.gradle\caches\transforms-3\2971e8222b6d8953a900638ba0d233ca\transformed\jetified-play-services-basement-18.3.0\res
+com.themirrorsocial.mirra.app-jetified-ads-adservices-1.0.0-beta05-10 C:\Users\MrHassyy\.gradle\caches\transforms-3\29b2afadb5d762db459808f64547fddf\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.themirrorsocial.mirra.app-constraintlayout-2.1.4-11 C:\Users\MrHassyy\.gradle\caches\transforms-3\36f3b2add7e3f885bfe64634265f0a8c\transformed\constraintlayout-2.1.4\res
+com.themirrorsocial.mirra.app-appcompat-1.5.1-12 C:\Users\MrHassyy\.gradle\caches\transforms-3\3fcfa995b922debdb046992370b7ed3f\transformed\appcompat-1.5.1\res
+com.themirrorsocial.mirra.app-webkit-1.7.0-13 C:\Users\MrHassyy\.gradle\caches\transforms-3\42e5ec024b36c9bb75771580f651e3dd\transformed\webkit-1.7.0\res
+com.themirrorsocial.mirra.app-jetified-play-services-base-18.3.0-14 C:\Users\MrHassyy\.gradle\caches\transforms-3\454e1c15e5ba5286f108e081883ea03b\transformed\jetified-play-services-base-18.3.0\res
+com.themirrorsocial.mirra.app-jetified-core-ktx-1.10.1-15 C:\Users\MrHassyy\.gradle\caches\transforms-3\47085114ff49c80095b55db1e8d4ce63\transformed\jetified-core-ktx-1.10.1\res
+com.themirrorsocial.mirra.app-lifecycle-runtime-2.6.2-16 C:\Users\MrHassyy\.gradle\caches\transforms-3\4e8ce05744abebce0241028926fbde36\transformed\lifecycle-runtime-2.6.2\res
+com.themirrorsocial.mirra.app-jetified-startup-runtime-1.1.1-17 C:\Users\MrHassyy\.gradle\caches\transforms-3\4fe6fe3fdff42ccd1f593df325030e89\transformed\jetified-startup-runtime-1.1.1\res
+com.themirrorsocial.mirra.app-jetified-billing-6.2.1-18 C:\Users\MrHassyy\.gradle\caches\transforms-3\5764ca4e1fee3601d38108aa62f56a45\transformed\jetified-billing-6.2.1\res
+com.themirrorsocial.mirra.app-jetified-annotation-experimental-1.3.0-19 C:\Users\MrHassyy\.gradle\caches\transforms-3\761929e091d544d9e6394773eda8bdee\transformed\jetified-annotation-experimental-1.3.0\res
+com.themirrorsocial.mirra.app-jetified-emoji2-views-helper-1.2.0-20 C:\Users\MrHassyy\.gradle\caches\transforms-3\7a5daec76ff00ba475e11bc65106acab\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.themirrorsocial.mirra.app-jetified-play-services-auth-21.0.0-21 C:\Users\MrHassyy\.gradle\caches\transforms-3\7bad829fadeeab6e87884801ce34caa2\transformed\jetified-play-services-auth-21.0.0\res
+com.themirrorsocial.mirra.app-jetified-lifecycle-process-2.6.2-22 C:\Users\MrHassyy\.gradle\caches\transforms-3\7df56744dddb4ca569afd4a7b34b2889\transformed\jetified-lifecycle-process-2.6.2\res
+com.themirrorsocial.mirra.app-core-1.10.1-23 C:\Users\MrHassyy\.gradle\caches\transforms-3\889ce5bd12f1117e5357d5fcdb5e1305\transformed\core-1.10.1\res
+com.themirrorsocial.mirra.app-jetified-appcompat-resources-1.5.1-24 C:\Users\MrHassyy\.gradle\caches\transforms-3\8d1a0ccd21ec958cee87cfca7ebf52f8\transformed\jetified-appcompat-resources-1.5.1\res
+com.themirrorsocial.mirra.app-fragment-1.5.7-25 C:\Users\MrHassyy\.gradle\caches\transforms-3\90b12dfbfe5bc951347085a75bfdd2d9\transformed\fragment-1.5.7\res
+com.themirrorsocial.mirra.app-lifecycle-viewmodel-2.6.2-26 C:\Users\MrHassyy\.gradle\caches\transforms-3\93796587f9b5d0922484bc6f1b94ead8\transformed\lifecycle-viewmodel-2.6.2\res
+com.themirrorsocial.mirra.app-core-runtime-2.2.0-27 C:\Users\MrHassyy\.gradle\caches\transforms-3\940b9309689e502e1c69a5135892cdcc\transformed\core-runtime-2.2.0\res
+com.themirrorsocial.mirra.app-jetified-window-java-1.0.0-beta04-28 C:\Users\MrHassyy\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.themirrorsocial.mirra.app-jetified-emoji2-1.2.0-29 C:\Users\MrHassyy\.gradle\caches\transforms-3\a069e44d9c98fbecf8e5475010c3a44b\transformed\jetified-emoji2-1.2.0\res
+com.themirrorsocial.mirra.app-swiperefreshlayout-1.1.0-30 C:\Users\MrHassyy\.gradle\caches\transforms-3\a4cc2b94c394af9d4e6920387c581824\transformed\swiperefreshlayout-1.1.0\res
+com.themirrorsocial.mirra.app-lifecycle-livedata-2.6.2-31 C:\Users\MrHassyy\.gradle\caches\transforms-3\ac1a890edf09d5b230334f6a545936d7\transformed\lifecycle-livedata-2.6.2\res
+com.themirrorsocial.mirra.app-jetified-activity-1.7.2-32 C:\Users\MrHassyy\.gradle\caches\transforms-3\b91d5b010bb7c1fbb9d04195e8906de4\transformed\jetified-activity-1.7.2\res
+com.themirrorsocial.mirra.app-jetified-profileinstaller-1.3.0-33 C:\Users\MrHassyy\.gradle\caches\transforms-3\b92cbf7d134b1c7f58467c023b6e5f48\transformed\jetified-profileinstaller-1.3.0\res
+com.themirrorsocial.mirra.app-media-1.1.0-34 C:\Users\MrHassyy\.gradle\caches\transforms-3\bae5be81cfe276d78af705e15de27a9a\transformed\media-1.1.0\res
+com.themirrorsocial.mirra.app-jetified-lifecycle-service-2.6.2-35 C:\Users\MrHassyy\.gradle\caches\transforms-3\be002909061936dc53b851782856c04e\transformed\jetified-lifecycle-service-2.6.2\res
+com.themirrorsocial.mirra.app-jetified-ads-adservices-java-1.0.0-beta05-36 C:\Users\MrHassyy\.gradle\caches\transforms-3\cc7e44b07b6bbfbe887ac5860ad471aa\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.themirrorsocial.mirra.app-work-runtime-2.7.0-37 C:\Users\MrHassyy\.gradle\caches\transforms-3\d032224f4cfb6a6e1071a77e712f1d3b\transformed\work-runtime-2.7.0\res
+com.themirrorsocial.mirra.app-jetified-play-services-ads-23.0.0-38 C:\Users\MrHassyy\.gradle\caches\transforms-3\d65349c75a23549b3f85fe521ce8917a\transformed\jetified-play-services-ads-23.0.0\res
+com.themirrorsocial.mirra.app-browser-1.5.0-39 C:\Users\MrHassyy\.gradle\caches\transforms-3\d9d38ec9344928c1b01c151ec647a95a\transformed\browser-1.5.0\res
+com.themirrorsocial.mirra.app-lifecycle-livedata-core-2.6.2-40 C:\Users\MrHassyy\.gradle\caches\transforms-3\effdec20b4b72a00ea6af29220de8f58\transformed\lifecycle-livedata-core-2.6.2\res
+com.themirrorsocial.mirra.app-jetified-play-services-ads-lite-23.0.0-41 C:\Users\MrHassyy\.gradle\caches\transforms-3\f79afe8abd385492eedfd549a30d56e2\transformed\jetified-play-services-ads-lite-23.0.0\res
+com.themirrorsocial.mirra.app-main-42 D:\Startup Company\mirra\android\app\src\main\res
+com.themirrorsocial.mirra.app-release-43 D:\Startup Company\mirra\android\app\src\release\res
+com.themirrorsocial.mirra.app-pngs-44 D:\Startup Company\mirra\build\app\generated\res\pngs\release
+com.themirrorsocial.mirra.app-resValues-45 D:\Startup Company\mirra\build\app\generated\res\resValues\release
+com.themirrorsocial.mirra.app-rs-46 D:\Startup Company\mirra\build\app\generated\res\rs\release
+com.themirrorsocial.mirra.app-mergeReleaseResources-47 D:\Startup Company\mirra\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.themirrorsocial.mirra.app-mergeReleaseResources-48 D:\Startup Company\mirra\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.themirrorsocial.mirra.app-merged_res-49 D:\Startup Company\mirra\build\app\intermediates\merged_res\release
+com.themirrorsocial.mirra.app-packaged_res-50 D:\Startup Company\mirra\build\cloud_firestore\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-51 D:\Startup Company\mirra\build\cloud_functions\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-52 D:\Startup Company\mirra\build\device_info_plus\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-53 D:\Startup Company\mirra\build\firebase_auth\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-54 D:\Startup Company\mirra\build\firebase_core\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-55 D:\Startup Company\mirra\build\firebase_messaging\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-56 D:\Startup Company\mirra\build\firebase_storage\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-57 D:\Startup Company\mirra\build\flutter_inappwebview\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-58 D:\Startup Company\mirra\build\flutter_keyboard_visibility\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-59 D:\Startup Company\mirra\build\flutter_local_notifications\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-60 D:\Startup Company\mirra\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-61 D:\Startup Company\mirra\build\geocoding_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-62 D:\Startup Company\mirra\build\geolocator_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-63 D:\Startup Company\mirra\build\google_api_headers\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-64 D:\Startup Company\mirra\build\google_maps_flutter_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-65 D:\Startup Company\mirra\build\google_mobile_ads\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-66 D:\Startup Company\mirra\build\google_sign_in_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-67 D:\Startup Company\mirra\build\image_picker_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-68 D:\Startup Company\mirra\build\in_app_purchase_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-69 D:\Startup Company\mirra\build\location\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-70 D:\Startup Company\mirra\build\package_info_plus\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-71 D:\Startup Company\mirra\build\path_provider_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-72 D:\Startup Company\mirra\build\permission_handler_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-73 D:\Startup Company\mirra\build\purchases_flutter\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-74 D:\Startup Company\mirra\build\shared_preferences_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-75 D:\Startup Company\mirra\build\sqflite\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-76 D:\Startup Company\mirra\build\url_launcher_android\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-77 D:\Startup Company\mirra\build\vibration\intermediates\packaged_res\release
+com.themirrorsocial.mirra.app-packaged_res-78 D:\Startup Company\mirra\build\webview_flutter_android\intermediates\packaged_res\release

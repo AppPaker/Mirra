@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "928648526048",
+    "firebase_url": "https://mirr00-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mirr00",
+    "storage_bucket": "mirr00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928648526048:android:1e8eee3386f4866ba8b885",
+        "android_client_info": {
+          "package_name": "com.themirrorsocial.mirra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928648526048-8hogj6et4jrvfejqc3bs0t4djjhr332j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.themirrorsocial.mirra",
+            "certificate_hash": "c7dc1295f944f3c8b3043734ee27cf0d5458b3ba"
+          }
+        },
+        {
+          "client_id": "928648526048-8fiialj919rnj16bstunm0rk80e01rdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lXhMF3jdfNUNAFEcAl2fDHEMba7Kxzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108732012008578398587",
+              "client_type": 3
+            },
+            {
+              "client_id": "928648526048-3snlkdu096u0mdrcqp59jrfkn8tjflaf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mirror"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928648526048:android:733a6c4691c28e99a8b885",
+        "android_client_info": {
+          "package_name": "com.themirrorsocial.mirra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928648526048-8fiialj919rnj16bstunm0rk80e01rdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0lXhMF3jdfNUNAFEcAl2fDHEMba7Kxzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108732012008578398587",
+              "client_type": 3
+            },
+            {
+              "client_id": "928648526048-3snlkdu096u0mdrcqp59jrfkn8tjflaf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.mirror"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
